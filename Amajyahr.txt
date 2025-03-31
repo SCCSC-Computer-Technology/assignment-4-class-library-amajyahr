@@ -1,0 +1,7 @@
+Amajyahr, I clone your file and gave me an error because it was zipped then I had to download your file and extract from it. At first once
+I cliked on your "sln" I didn't see no projects at all until I clicked on your "Class1.cs" and was able to see your code. There was two
+comments on lines 21 and 31, but none after including your name. I do like how you're using Sql command on line 42 to read your columns 
+from the database.
+
+Overall, I think your assignment could use a little bit of work which is including comments of your name and what each code is used for in
+your class that help your library class in Lab 3.
