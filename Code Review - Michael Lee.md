@@ -1,0 +1,3 @@
+I had some issues running it along with the main project it's based on, but that's probably an issue on my end. Glancing at the code here and the code available, it *looks* like it should all work together just fine. My main suggestions would be to rename the .Class1.cs file to something more memorable, and possibly split the file up into two files: States.cs (a class just for the States data) and StatesExtra.cs. 
+
+Overall great job.
